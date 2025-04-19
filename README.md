@@ -18,5 +18,4 @@ I'm a data enthusiast driven by curiosity and a passion for building intelligent
 
 🎯 Fun Fact: I enjoy designing AI tools that feel like co-pilots — always ready to assist, always learning.
 
-![Thanks for visiting!](https://media.giphy.com/media/xT9IgsFBE6UqHOn6s4/giphy.gif)
 
