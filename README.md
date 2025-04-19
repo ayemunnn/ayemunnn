@@ -1,34 +1,22 @@
-# Hi, I'm Aman/Ayemunnn! 👋
+# 👋 Hey there, I'm Aman/Ayemunnn!
 
-Machine learning/Data Science/AI enthusiast, passionate about leveraging data to solve real-world problems. 
-With expertise in machine learning, data visualization, and business analytics. 
-I specialize in transforming complex datasets into actionable insights and strategic solutions.
+I'm a data enthusiast driven by curiosity and a passion for building intelligent solutions. Whether it's making sense of large datasets, fine-tuning AI models, or building dynamic dashboards, I love solving problems that matter.
 
----
+🚀 **Right now, I’m diving deeper into:**
+- Fine-tuning LLMs like DeepSeek and Gemini
+- Automating EDA and model selection with AI agents
+- Creating powerful visualizations with Power BI and Plotly
+- Exploring cloud platforms like Azure and GCP
 
-## 🚀 Technical Skills
+💡 **I’m especially excited about projects that involve:**
+- AI and NLP-powered applications
+- Real-time data pipelines and analytics
+- Streamlined, user-friendly tools for decision making
 
-- **Programming & Analytics:** Python, R, SQL, Excel
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Plotly
-- **Machine Learning:** Regression, Classification, Clustering, Natural Language Processing (NLP)
-- **AI & LLM:** Fine-tuning LLMs (DeepSeek, Gemini), Generative AI, Hugging Face Transformers, LangChain, Retrieval-Augmented Generation (RAG), Agentic AI
-- **Frameworks & Tools:** Pandas, Scikit-Learn, Streamlit, Hugging Face, Apache Kafka
-- **Cloud & Deployment:** Microsoft Azure, Google Cloud Platform (GCP), Hugging Face Spaces
+📬 **Let’s connect:**  
+[Email me](mailto:amankumark4@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-a9550520b) - always up for an insightful chat or collaborative opportunity.
 
----
+🎯 Fun Fact: I enjoy designing AI tools that feel like co-pilots — always ready to assist, always learning.
 
-## 🛠️ Areas of Interest
-
-- Advanced machine learning techniques and practical applications
-- Building AI-driven tools and automated analytics solutions
-- Continuous learning and certification enhancement (e.g., Microsoft Azure AZ-900, Scrum Master Certification)
-
----
-
-## 📫 Connect With Me
-
-- **Email:** [amankumark4@gmail.com](mailto:amankumark4@gmail.com)
-- **LinkedIn:** [Aman Kumar](https://www.linkedin.com/in/aman-kumar-a9550520b)
-
-I'm always open to connecting, collaborating, and exploring new opportunities!
+![Thanks for visiting!](https://media.giphy.com/media/xT9IgsFBE6UqHOn6s4/giphy.gif)
 
