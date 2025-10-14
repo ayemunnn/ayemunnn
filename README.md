@@ -16,6 +16,6 @@ I'm a data enthusiast driven by curiosity and a passion for building intelligent
 **Let’s connect:**  
 [Email me](mailto:amankumark4@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-a9550520b) - always up for an insightful chat or collaborative opportunity.
 
-Fun Fact: I enjoy designing AI tools that feel like co-pilots — always ready to assist, always learning.
+Fun Fact: I enjoy designing AI tools that feel like co-pilots, always ready to assist, always learning.
 
 
